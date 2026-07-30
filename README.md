@@ -1,19 +1,20 @@
 # Cryptography-and-Network-Security
 
-Este repositorio contiene implementaciones en **Python** de diversos algoritmos criptográficos, abarcando desde cifras clásicas por sustitución hasta estándares modernos de cifrado simétrico y algoritmos matemáticos fundamentales.
+This repository contains **Python** implementations of various cryptographic algorithms, ranging from classical substitution ciphers to modern symmetric encryption standards and foundational mathematical algorithms.
 
-Es un proyecto diseñado para fines educativos, de estudio de fundamentos de ciberseguridad y prueba de conceptos.
+Designed for educational purposes, studying cybersecurity fundamentals, and proof-of-concept development.
 
 ---
 
-## 🚀 Algoritmos Implementados
+## Implemented Algorithms
 
-| Algoritmo | Tipo | Descripción |
+| Algorithm | Type | Description |
 | :--- | :--- | :--- |
-| **Cifrado César** | Sustitución Monoalfabética | Desplazamiento fijo de caracteres en el alfabeto. |
-| **Cifrado Vigenère** | Sustitución Polialfabética | Cifrado por bloques de texto mediante una palabra clave repetida. |
-| **Cifrado Vernam** | Libreta de Un Solo Uso (OTP) | Cifrado perfecto mediante operación XOR bit a bit con clave aleatoria del mismo tamaño. |
-| **AES** | Cifrado Simétrico por Bloques | Estándar moderno de cifrado simétrico (Advanced Encryption Standard). |
-| **Euclides** | Algoritmo Matemático | Cálculo del Máximo Común Divisor (MCD) y Algoritmo Extendido para inverso modular. |
+| **Caesar Cipher** | Monoalphabetic Substitution | Shifts characters in the alphabet by a fixed value. |
+| **Vigenère Cipher** | Polyalphabetic Substitution | Encrypts text using a repeated keyword. |
+| **Vernam Cipher** | One-Time Pad (OTP) | Information-theoretically secure cipher using bitwise XOR with a random key of equal length. |
+| **AES** | Symmetric Block Cipher | Modern symmetric encryption standard (Advanced Encryption Standard). |
+| **Euclidean Algorithm** | Mathematical Algorithm | Computes the Greatest Common Divisor (GCD) and the Extended Euclidean Algorithm for modular inverses. |
 
 ---
+
